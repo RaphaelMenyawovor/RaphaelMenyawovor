@@ -8,7 +8,7 @@ I'm a backend engineer and a full-stack developer with a focus on secure backend
 
 - 🌱 I’m currently learning **NestJS**
 
-- 📫 <a href="raphaelmenyawovor.com"  target="_blank" rel="noopener noreferrer"> My Profile </a>
+- 📫 <a href="https://raphaelmenyawovor.com"  target="_blank" rel="noopener noreferrer"> My Profile </a>
 
 
 
