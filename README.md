@@ -2,11 +2,9 @@
 
 **` Backend Engineer `**
 
-I'm a backend engineer and a full-stack developer with a focus on secure backend systems. I have a special interest in projects that focus on the UNs Sustainable Development Goals, as well as any interesting projects I might come across.
+I'm a backend engineer with a focus on security. I have a special interest in projects that focus on the UNs Sustainable Development Goals, as well as any interesting projects I might come across.
 
 - I'm currently working on **EasyInventory**, an inventory management system for small to mid scale shops with a focus on ease of use and security 
-
-- 🌱 I’m currently learning **NestJS**
 
 - 📫 <a href="https://raphaelmenyawovor.com"  target="_blank" rel="noopener noreferrer"> My Profile </a>
 
