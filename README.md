@@ -1,8 +1,7 @@
 #   Raphael Menyawovor
 
-**` Backend Engineer `**
+**` Backend Engineer | Entrepreneur | Investor`**
 
-I'm a backend engineer with a focus on security. I have a special interest in projects that focus on the UNs Sustainable Development Goals, as well as any interesting projects I might come across.
 
 - I'm currently working on **EasyInventory**, an inventory management system for small to mid scale shops with a focus on ease of use and security 
 
@@ -36,40 +35,21 @@ I'm a backend engineer with a focus on security. I have a special interest in pr
 ---
 
 ### Languages and Tools
-
-<img align="left" alt="Blender" width="30px" style="padding-right:15px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"/>
-
 <img align="left" alt="C++" width="30px" style="padding-right:15px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 
 <img align="left" alt="Django" width="30px" style="padding-right:15px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
 
 <img align="left" alt="Express" width="30px" style="padding-right:15px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
 
-<img align="left" alt="Figma" width="30px" style="padding-right:15px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-
-<img align="left" alt="Git" width="30px" style="padding-right:15px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-
-<img align="left" alt="Javascript" width="30px" style="padding-right:15px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-
 <img align="left" alt="Linux" width="30px" style="padding-right:15px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-
-<img align="left" alt="MongoDB" width="30px" style="padding-right:15px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
 
 <img align="left" alt="NestJS" width="30px" style="padding-right:15px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"/>
 
 <img align="left" alt="NextJS" width="30px" style="padding-right:15px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
 
-<img align="left" alt="NodeJS" width="30px" style="padding-right:15px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
-
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:15px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
 
-<img align="left" alt="Postman" width="30px" style="padding-right:15px; vertical-align: middle;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
-
-<img align="left" alt="Python" width="30px" style="padding-right:15px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-
 <img align="left" alt="React" width="30px" style="padding-right:15px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
-
-<img align="left" alt="ReactNative" width="30px" style="padding-right:15px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original-wordmark.svg"/>
 
 <img align="left" alt="SQLite" width="30px" style="padding-right:15px; vertical-align: middle;" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/>
 
